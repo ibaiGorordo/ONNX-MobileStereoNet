@@ -1,0 +1,7 @@
+opencv-python
+googledrivedownloader
+onnx
+onnxruntime
+onnxruntime-gpu
+requests
+imread-from-url
