@@ -18,7 +18,7 @@ pip install pafy youtube-dl
 The original models were converted to different formats (including .onnx) by [PINTO0309](https://github.com/PINTO0309), the models can be found in [his repository](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/150_MobileStereoNet).
 
 # Original Pytorch model
-The Pytorch pretrained model was taken from the [original repository]https://github.com/cogsys-tuebingen/mobilestereonet).
+The Pytorch pretrained model was taken from the [original repository](https://github.com/cogsys-tuebingen/mobilestereonet).
  
 # Examples
 
