@@ -7,6 +7,7 @@ Python scripts for performing stereo depth estimation using the MobileStereoNet 
 # Requirements
 
  * Check the **requirements.txt** file. Additionally, **pafy** and **youtube-dl** are required for youtube video inference.
+ * DrivingStereo dataset, **ONLY** for the `driving_sereo_test.py`script. Link: https://drivingstereo-dataset.github.io/
  
 # Installation
 ```
