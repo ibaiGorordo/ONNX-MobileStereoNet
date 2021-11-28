@@ -17,7 +17,7 @@ cap = cv2.VideoCapture(videoPafy.getbestvideo().url)
 model_path = "models/model_528_240_float32.onnx"
 
 # Store baseline (m) and focal length (pixel)
-input_width = 320
+input_width = 528
 camera_config = CameraConfig(0.1, 0.5*input_width) # 90 deg. FOV
 max_distance = 5
 
